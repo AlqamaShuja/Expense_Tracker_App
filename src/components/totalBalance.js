@@ -12,7 +12,6 @@ function totalBalance(props) {
         Total Balance:{" "}
         <span className="font-weight-bold"> ${props.balance} </span>
       </h3>
-      {/* <button onClick={() => console.log("Balance Addes")}>Add Balance</button> */}
     </div>
   );
 }
